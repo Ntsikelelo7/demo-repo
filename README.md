@@ -1,2 +1,2 @@
 # demo-repo
-Just learning how to use Github.
+Just learning how to use Github
